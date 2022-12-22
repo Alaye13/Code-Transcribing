@@ -1,6 +1,4 @@
 ;Ifenna Ekwenem
-;CS 310-001
-;Mr Reaser 
 (defun appendedMethod (lizt1 lizt2)
     (cond
         ((null lizt1) (lizt2))
