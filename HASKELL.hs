@@ -1,8 +1,5 @@
 {-
 Ifenna Ekwenem
-CS 310-001
-Mr Reaser
-Survey 2
 
 -}
 append lizt1 lizt2 =
