@@ -1,3 +1,2 @@
 # CodeTranscribed
-Simply put these are just the same codes written in different languages.
-These languages would be Haskell, Scala, CommonLisp.
+Simply put these are just the same codes written in these languages would be Haskell, Scala, CommonLisp.
